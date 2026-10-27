@@ -1,0 +1,10 @@
+[project]
+name = "react-agent"
+version = "0.1.0"
+description = "ReAct agent (Groq gpt-oss-120b) — Python port of Coursera Assistants API project"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=3.39.0",
+    "python-dotenv>=1.2.4",
+    "yfinance>=1.7.0",
+]

@@ -1,0 +1,29 @@
+# secrets
+.env
+.env.*
+
+# local AI assistant notes
+CLAUDE.md
+.claude/
+
+# python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# node (frontend, phase 4)
+node_modules/
+dist/
+build/
+
+# logs
+*.log
+
+# os / editor
+.DS_Store
+.vscode/
+.idea/
