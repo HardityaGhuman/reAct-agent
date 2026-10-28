@@ -18,4 +18,5 @@ For policy questions, answer only from the policy document; if it does not cover
 Politely refuse questions about anything else.
 
 # Format
-Short, plain-language answers. Never include code."""
+Short, plain-language answers. Never include code.
+For email address questions, reply with only the email address and nothing else."""

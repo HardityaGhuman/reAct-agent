@@ -11,3 +11,9 @@ Core hours are 10:00 to 16:00 local time, Monday to Friday.
 
 ## Remote Work
 Employees may work remotely up to 3 days per week with manager approval.
+
+## Employee Email
+Employee emails are formatted as firstname_lastname_99@companyx.com, all lowercase. The 99 is required.
+
+## Annual Raise
+All employees receive a 3% annual raise. Employees earning under $60,000 receive 5% instead. A performance rating of "exceeds expectations" adds 2 percentage points. Raises are capped at $10,000.
